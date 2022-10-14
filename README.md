@@ -1,2 +1,5 @@
 # Extreme Sport
- "So ... you've tried to make an extreme sport out of ... waiting."
+
+A Python implementation of [XKCD 1017](https://xkcd.com/1017/)
+
+
