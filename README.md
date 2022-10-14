@@ -1,12 +1,16 @@
 # Extreme Sport
 
-A Python implementation of [XKCD 1017](https://xkcd.com/1017/).
+> "So...you've tried to make an extreme sport out of...waiting."
 
-![Backward in time](backward_in_time.png "Backward in time")
-
-## Screenshot:
+> "Swoosh!"
 
 ![Backward in time](screenshot.png "Backward in time")
+
+## Inspiration:
+
+This script is a Python implementation of [XKCD 1017](https://xkcd.com/1017/).
+
+![Backward in time](backward_in_time.png "Backward in time")
 
 ## Installation:
 
