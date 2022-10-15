@@ -20,4 +20,4 @@ This script is a Python implementation of [XKCD 1017](https://xkcd.com/1017/).
 
 **Step 2:** Install pip dependancies with `sude pip3 install -r requirements.txt`
 
-**Step 3:** Run the program by lauching `TIME-ers.py`.
+**Step 3:** Run the program by lauching `Extreme Sport.py`.

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 print("Starting TIME-ers")
 print("Loading...")
 
