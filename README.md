@@ -18,6 +18,6 @@ This script is a Python implementation of [XKCD 1017](https://xkcd.com/1017/).
 
 **Step 1:** Install python 3.10.
 
-**Step 2:** Install pip dependancies with `sude pip3 install -r requirements.txt`
+**Step 2:** Install pip dependancies with `sudo pip3 install -r requirements.txt`
 
 **Step 3:** Run the program by lauching `Extreme Sport.py`.
